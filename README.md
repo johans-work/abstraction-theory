@@ -9,6 +9,19 @@ An abstraction is any pattern used to represent another pattern, such as a name,
 
 # the physics
 
+
+# the laws
+
+1. Every abstraction has an implementation.
+
+2. x
+
+3. c
+
+4. d
+
+5. d
+
 # abstract positivism
 
 positivistic nature of abstraction
