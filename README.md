@@ -15,3 +15,12 @@ the abstraction is never the thing
 consciousness
 a priori
 before observations
+
+# math & science
+
+one-ness and two-ness yields three-ness every time.
+
+observation, utterance, logic.
+
+# programming
+
