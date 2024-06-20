@@ -1,4 +1,10 @@
-# abstraction theory
+# tldr
+
+An abstraction is any pattern used to represent another pattern, such as a name, a diagram, or a detailed description. An abstraction is not what it represents, but isn't less either. It's complicated.
+
+
+# intro
+
 
 # the physics
 
