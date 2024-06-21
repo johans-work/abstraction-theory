@@ -41,7 +41,7 @@ positivistic nature of abstraction
 
 # the abstraction paradox
 
-the abstraction is never the thing
+An abstraction can never be the thing it abstracts.
 
 # the abstraction barrier
 
