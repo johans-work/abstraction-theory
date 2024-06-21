@@ -1,9 +1,9 @@
 # tldr
 
-An abstraction is any pattern used to represent another pattern, such as a name, a diagram, or a detailed description. Abstractions are meant to be used, and the use case determines the tolerance of how similar the expressions can be. 
-
 
 # intro
+
+An abstraction is any pattern used to represent another pattern, such as a name, a diagram, or a detailed description. Abstractions are meant to be used, and the use case determines the tolerance of how similar the expressions can be, and how they are physically implemented.
 
 
 
