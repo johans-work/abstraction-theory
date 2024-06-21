@@ -11,7 +11,7 @@ An abstraction is any pattern used to represent another pattern, such as a name,
 
 All matter must have a shape. All shapes must be of matter. Abstractions are made of shapes. 
 
-A doll can be made of clay or plasitc. The doll is the shape and the abstraction. You can have one girl doll and one boy doll. One is another shape and abstraction, as are girl and boy.
+A doll can be made of clay or plasitc. The doll is the shape and the abstraction. You can have one girl doll and one boy doll. One, girl, and boy are all abstractions. They are ideas we put words to so we can express them. Words are tools, and each word has a unique shape so we can tell them apart.
 
 # the laws
 
@@ -34,6 +34,12 @@ A doll can be made of clay or plasitc. The doll is the shape and the abstraction
 9. An abstraction is an abstraction, and never what it represents.
 
 10. Abstractions are enacted. They substitute the real thing and are made consequential.
+
+11. Abstractions can be counted.
+
+12. Abstractions can be copied.
+
+13. Something is abstracted by something. The abstractor comes first, the thing being abstracted second, and the abstraction third.
 
 # abstract positivism
 
