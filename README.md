@@ -7,11 +7,12 @@ An abstraction is any pattern used to represent another pattern, such as a name,
 
 
 
+
 # the physics
 
 All matter must have a shape. All shapes must be of matter. Abstractions are made of shapes. 
 
-A doll can be made of clay or plasitc. The doll is the shape and the abstraction. You can have one girl doll and one boy doll. One, girl, and boy are all abstractions. They are ideas we put words to so we can express them. Words are tools, and each word has a unique shape so we can tell them apart.
+
 
 # the laws
 
@@ -63,3 +64,15 @@ observation, utterance, logic.
 
 # programming
 
+
+# Examples
+
+## the doll
+
+A doll can be made of clay or plasitc. The doll is the shape and the abstraction. You can have one girl doll and one boy doll. One, girl, and boy are all abstractions. They are ideas we put words to so we can express them. Words are tools, and each word has a unique shape so we can tell them apart.
+
+## the ripple
+
+## the car
+
+## the goal
