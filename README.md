@@ -10,7 +10,24 @@ An abstraction is any pattern used to represent another pattern, such as a name,
 
 # the physics
 
-All matter must have a shape. All shapes must be of matter. Abstractions are made of shapes. 
+All matter must have a shape. All shapes must be of matter. Abstractions are made of shapes, and are perfectly physical.
+
+Every abstraction has an implementation, and an expression. 
+
+The implementation is the physical nature of the abstraction. The ink on paper, the pixels on a screen, the clay, the hard disk, our memory, etc. 
+
+The expression is the use case, that is meant to be observed and mean something.
+
+The expression itself is often used for implementation, but this has little to do with the physical nature of the abstraction.
+
+An instruction is an expression that causes the observer to do as instructed.
+
+A schematic expresses an implementation.
+
+A fact expresses a true description of the world.
+
+A description of a cause expresses a theory.
+
 
 
 
@@ -42,6 +59,10 @@ All matter must have a shape. All shapes must be of matter. Abstractions are mad
 
 13. Something is abstracted by something. The abstractor comes first, the thing being abstracted second, and the abstraction third.
 
+14. There is always a direction, and is worth identifying.
+
+15. Abstractions are free. They don't change anything until we change anything.
+
 # abstract positivism
 
 positivistic nature of abstraction
@@ -71,7 +92,7 @@ observation, utterance, logic.
 
 A doll can be made of clay or plasitc. The doll is the shape and the abstraction. You can have one girl doll and one boy doll. One, girl, and boy are all abstractions. They are ideas we put words to so we can express them. Words are tools, and each word has a unique shape so we can tell them apart.
 
-### the ripple
+### ripples
 
 Throwing a rock into a pond generates ripples. The throw must happen, the rock and pond must exist, the rock must hit the water, and only then will multiple ripples grow out from the point of contact. This order does not, and cannot change.
 
@@ -84,6 +105,12 @@ Throwing a rock into a pond generates ripples. The throw must happen, the rock a
 ### quantum mechanics
 
 ### axiom of regularity
+
+### the scientific method
+
+### time
+
+### 
 
 
 
