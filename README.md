@@ -67,12 +67,24 @@ observation, utterance, logic.
 
 # Examples
 
-## the doll
+### the doll
 
 A doll can be made of clay or plasitc. The doll is the shape and the abstraction. You can have one girl doll and one boy doll. One, girl, and boy are all abstractions. They are ideas we put words to so we can express them. Words are tools, and each word has a unique shape so we can tell them apart.
 
-## the ripple
+### the ripple
 
-## the car
+Throwing a rock into a pond generates ripples. The throw must happen, the rock and pond must exist, the rock must hit the water, and only then will multiple ripples grow out from the point of contact. This order does not, and cannot change.
 
-## the goal
+### the car
+
+### the goal
+
+### numbers
+
+### quantum mechanics
+
+### axiom of regularity
+
+
+
+
