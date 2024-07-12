@@ -12,7 +12,9 @@ An abstraction is any pattern used to represent another pattern, such as a name,
 
 # the physics
 
-All matter must have a shape. All shapes must be of matter. Abstractions are made of shapes, and are perfectly physical.
+All matter must have a shape. All shapes must be of matter. Abstractions are made of shapes, and so are perfectly physical.
+
+Most shapes match their substance. But they don't have to. Some substances can be manipulated for their shapes. 
 
 Every abstraction has an implementation, and an expression. 
 
