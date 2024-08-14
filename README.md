@@ -116,6 +116,16 @@ Throwing a rock into a pond generates ripples. The throw must happen, the rock a
 
 ### 
 
+Abstractions taught as something abstract, that they come in objects and layers, and that they're convenient for when hiding complexity. It's only intuitive to see higher layers as more abstract, making the lower layers as more concrete.
+
+However, not only are all layers composed of abstractions, even "abstract" and "concrete" are abstractions, as is "abstraction". Moreover, all abstractions are equally "abstract", and therefore goes without mentioning, once understood. Therefore, to clarify, "concrete" simply refers to "closer to the physics", and higher levels of abstractions can continued to be considered more "abstract", as in, "further from the physics". 
+
+
+
+
+
+
+
 
 
 
