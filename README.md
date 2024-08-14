@@ -118,7 +118,16 @@ Throwing a rock into a pond generates ripples. The throw must happen, the rock a
 
 Abstractions are taught as something abstract, that they come in objects and layers, and that they're convenient for when hiding complexity. It's only intuitive to see higher layers as more abstract, making the lower layers as more concrete.
 
-However, not only are all layers composed of abstractions, even "abstract" and "concrete" are abstractions, as is "abstraction". Moreover, all abstractions are equally "abstract", and therefore goes without mentioning, once understood. Therefore, to clarify, "concrete" simply refers to "closer to the physics", and higher levels of abstractions can continued to be considered more "abstract", as in, "further from the physics". However, the building blocks of these descriptions and definitions, these words, and all that exists at all non-physical layers continues to be the product of abstraction, and are all abstractions equal in nature. 
+However, not only are all layers composed of abstractions, even "abstract" and "concrete" are abstractions, as is "abstraction". 
+
+Moreover, all abstractions are equally "abstract", and therefore goes without mentioning, once understood. 
+
+Therefore, to clarify, "concrete" simply refers to "closer to the physics", and higher levels of abstractions can continued to be considered more "abstract", as in, "further from the physics". 
+
+However, the building blocks of these descriptions and definitions, these words, and all that exists at all non-physical layers continues to be the product of abstraction, and are all abstractions equal in nature. Moreover, English is also just another abstraction layer that exists outside of the machine, yet is imported through howe we define our creations within the machine. English cannot be detached from the implementation. 
+
+The first step in reordering the mental model is detaching the idea of abstractions and the ideas of abstraction theory into its own layer. However, since the abstraction layers of the machiine remain, it's not accurate to place this layer above. Instead, it would be on a new axist, and on a new dimension. 
+
 
 
 
