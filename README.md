@@ -122,7 +122,7 @@ However, not only are all layers composed of abstractions, even "abstract" and "
 
 Moreover, all abstractions are equally "abstract", and therefore goes without mentioning, once understood. 
 
-Therefore, to clarify, "concrete" simply refers to "closer to the physics", and higher levels of abstractions can continued to be considered more "abstract", as in, "further from the physics". 
+To translate the existing intuitions incorporating our new additions to our mental models, "more concrete" would mean "closer to the physics", and "more abstract" would mean "further from the physics". However, this degree of abstractness as in distance from physics is not to be confused with the abstractness of abstraction itself which remains constant.
 
 However, the building blocks of these descriptions and definitions, these words, and all that exists at all non-physical layers continues to be the product of abstraction, and are all abstractions equal in nature. Moreover, English is also just another abstraction layer that exists outside of the machine, yet is imported through howe we define our creations within the machine. English cannot be detached from the implementation. 
 
